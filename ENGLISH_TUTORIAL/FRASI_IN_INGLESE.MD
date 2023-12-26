@@ -10,3 +10,4 @@ FRASI_IN_INGLESE.MD
 	T
 		Terminal
 			Terminale: no place to open terminal to
+				Terminale: no place to open terminal to
